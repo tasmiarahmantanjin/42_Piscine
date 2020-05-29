@@ -1,0 +1,6 @@
+Credentials cache: API:4675
+        Principal: trahman@HIVE.FI
+
+  Issued                Expires               Principal
+Feb  4 15:13:10 2020  Feb  5 01:13:10 2020  krbtgt/HIVE.FI@HIVE.FI
+Feb  4 15:13:11 2020  Feb  5 01:13:10 2020  HTTP/student-storage.hive.fi@HIVE.FI
